@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+#canvas{
+    width: 320;
+    height: 160;
+    background-color: aliceblue;
+    border: 1px solid #000;
+}
